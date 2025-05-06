@@ -57,5 +57,5 @@ Press i for iOS simulator
 Press a for Android emulator
 
 
-## Link on report
-[Link on report](https://docs.google.com/document/d/1WLqhO5BSXXgAcTvJjGrtmA3Opd1pu9x7inmy2dEXSco/edit?usp=sharing)
+## Link on debugging and fixing report
+[Link on report](report.md)
