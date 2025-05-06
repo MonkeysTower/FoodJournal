@@ -5,12 +5,14 @@
 
 ## Features
 -The user can register, log in and log out of the system
--The user can take a photo of what they are eating or drinking with their phone's inbuilt camera (or add from the gallery).
--The user can then add a description of the dish to the photo.
--The user can view all the photos and descriptions they have added by clicking on the appropriate tab and swiping up and down.
--The user can view all dishes in a particular category, delete a dish card (by swiping the card to the left and selecting the appropriate button), edit/update a dish card (similarly).
 
-Translated with DeepL.com (free version)
+-The user can take a photo of what they are eating or drinking with their phone's inbuilt camera (or add from the gallery).
+
+-The user can then add a description of the dish to the photo.
+
+-The user can view all the photos and descriptions they have added by clicking on the appropriate tab and swiping up and down.
+
+-The user can view all dishes in a particular category, delete a dish card (by swiping the card to the left and selecting the appropriate button), edit/update a dish card (similarly).
 
 ## Prerequisites
 
