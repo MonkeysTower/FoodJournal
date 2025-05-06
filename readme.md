@@ -14,6 +14,10 @@
 
 -The user can view all dishes in a particular category, delete a dish card (by swiping the card to the left and selecting the appropriate button), edit/update a dish card (similarly).
 
+### Added Features
+
+-Sections with the addition of new dish cards with a section containing already existing dish cards separated into different tabs due to which the interface looks less loaded, switching is done by clicking on the tab of interest.
+
 ## Prerequisites
 
 - Node.js v18+  
@@ -46,7 +50,12 @@ Install Expo Go on your phone
 
 Scan the QR code using your camera or Expo Go app
 
+
 Emulator
 Press i for iOS simulator
 
 Press a for Android emulator
+
+
+## Link on report
+[Link on report](https://docs.google.com/document/d/1WLqhO5BSXXgAcTvJjGrtmA3Opd1pu9x7inmy2dEXSco/edit?usp=sharing)
